@@ -6,15 +6,19 @@
 Simple Monte Carlo simulation of a project timeline
 
 This project was a relatively simple simulation to find the probabilities of the length of a project using traingle distributions.
-A more complex simulation was simulated where delays in early stages had flow on effects to later stages. Report is available here https://github.com/Declan-Stockdale/DADM_files/blob/master/Assignment%201A/DStockdale_Assignment1A_report.pdf
+A more complex simulation was simulated where delays in early stages had flow on effects to later stages. 
+Report is available here https://github.com/Declan-Stockdale/DADM_files/blob/master/Assignment%201A/DStockdale_Assignment1A_report.pdf
 
 Values for traingular distribution 
+
 ![image](https://user-images.githubusercontent.com/53500810/206880488-77bf85ca-5026-4157-b600-660b3d7dab58.png)
 
 Probability of project completion by a certain day
+
 ![image](https://user-images.githubusercontent.com/53500810/206880493-0fa6637a-328f-43ef-b495-f0ad54ca4f54.png)
 
 Effects of delays impacting project completetion
+
 ![image](https://user-images.githubusercontent.com/53500810/206880497-9428c228-e81e-45a3-8e6e-3b433a492021.png)
 
 
