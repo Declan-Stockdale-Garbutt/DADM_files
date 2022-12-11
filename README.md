@@ -9,15 +9,15 @@ This project was a relatively simple simulation to find the probabilities of the
 A more complex simulation was simulated where delays in early stages had flow on effects to later stages. 
 Report is available here https://github.com/Declan-Stockdale/DADM_files/blob/master/Assignment%201A/DStockdale_Assignment1A_report.pdf
 
-Values for traingular distribution 
+### Values for traingular distribution 
 
 ![image](https://user-images.githubusercontent.com/53500810/206880488-77bf85ca-5026-4157-b600-660b3d7dab58.png)
 
-Probability of project completion by a certain day
+### Probability of project completion by a certain day
 
 ![image](https://user-images.githubusercontent.com/53500810/206880493-0fa6637a-328f-43ef-b495-f0ad54ca4f54.png)
 
-Effects of delays impacting project completetion
+### Effects of delays impacting project completetion
 
 ![image](https://user-images.githubusercontent.com/53500810/206880497-9428c228-e81e-45a3-8e6e-3b433a492021.png)
 
@@ -32,11 +32,11 @@ https://github.com/Declan-Stockdale/DADM_files/blob/master/Assignment_1B/DStockd
 
 
 
-Frequency and Cumulative Distribution for simulated project financials after the 5 year period
+### Frequency and Cumulative Distribution for simulated project financials after the 5 year period
 
 ![image](https://user-images.githubusercontent.com/53500810/206880782-aa32b676-01fd-4a39-b7f9-20dee71ea875.png)
 
-Frequency distributions of successful and failed mines based on their initial mine output value
+### Frequency distributions of successful and failed mines based on their initial mine output value
 
 ![image](https://user-images.githubusercontent.com/53500810/206880677-8448cf56-d7b6-4e4e-b621-332195a5a49b.png)
 
