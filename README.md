@@ -31,7 +31,9 @@ This project involved multiple external criteria such as an ongoing legal challe
 https://github.com/Declan-Stockdale/DADM_files/blob/master/Assignment_1B/DStockdale_Assignment1B.pdf
 
 
+
 Frequency and Cumulative Distribution for simulated project financials after the 5 year period
+
 ![image](https://user-images.githubusercontent.com/53500810/206880782-aa32b676-01fd-4a39-b7f9-20dee71ea875.png)
 
 Frequency distributions of successful and failed mines based on their initial mine output value
